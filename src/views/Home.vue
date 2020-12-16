@@ -5,6 +5,7 @@
       <img class="logo" src="cordova_256.png" />
       <h4>{{$t("title")}}</h4>
       <v-btn @click="openMenu" class="mt-10">{{$t("showSample")}}</v-btn>
+      <v-btn @click="myFunc" class="mt-10">Aller vers Vibration</v-btn>
     </div>
   </v-container>
 </template>
@@ -12,12 +13,21 @@
 <script>
 export default {
   name: 'home',
+  data() {
+    return {
+      myText: "lol",
+    };
+  },
   methods: {
-    openMenu: () => {
+    myFunc() {
+      // alert(this.myText);
+      this.$router.push('/vibration')
+    },
+    openMenu() {
       // When user tap the button dispatch an event into the dom.
       // Its will trigger the drawer Open event in (componnents/Drawer.vue)
       document.dispatchEvent(new CustomEvent("toggleDrawer", {}));
-    }
+    },
   }
 }
 </script>
