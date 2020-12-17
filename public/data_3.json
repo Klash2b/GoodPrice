@@ -1,0 +1,143 @@
+[  {
+  "barcodeProduit" : 1254782596325,
+  "descProduit" : "Reflex Canon EOS 2000D - Noir + objectif efs 18-55mm description exemple",
+  "deviseProduit" : "€",
+  "etatProduit" : "neuf",
+  "idProduit" : 1,
+  "imageProduit" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCHCYP672_TtOkysB2AX-RQGPobtcnwWdqqfeqcQIVFxryicuKBhYfvyFTv8MVNovngxvuVDqFFg&usqp=CAc",
+  "nomProduit" : "Reflex Canon EOS 2000D - Noir + objectif efs 18-55mm",
+  "refProduit" : "canon2000d",
+  "prixProduit" : {
+    "15-12-2020" : [ {
+      "prix" : 200,
+      "seller" : "amazon.fr"
+    }, {
+      "prix" : 250,
+      "seller" : "francecanon.fr"
+    } ],
+    "16-12-2020" : [ {
+      "prix" : 201,
+      "seller" : "amazon.fr"
+    }, {
+      "prix" : 243,
+      "seller" : "francecanon.fr"
+    } ],
+    "17-12-2020" : [ {
+      "prix" : 198,
+      "seller" : "amazon.fr"
+    }, {
+      "prix" : 270,
+      "seller" : "francecanon.fr"
+    } ],
+    "18-12-2020" : [ {
+      "prix" : 178,
+      "seller" : "amazon.fr"
+    }, {
+      "prix" : 256,
+      "seller" : "francecanon.fr"
+    } ],
+    "19-12-2020" : [ {
+      "prix" : 199,
+      "seller" : "amazon.fr"
+    }, {
+      "prix" : 260,
+      "seller" : "francecanon.fr"
+    } ]
+  }
+},
+ {
+  "barcodeProduit" : 9562823654856,
+  "descProduit" : "JBL - Casque Bluetooth Tune 500 BT - Noir exemple description",
+  "deviseProduit" : "€",
+  "etatProduit" : "neuf",
+  "idProduit" : 2,
+  "imageProduit" : "https://static.fnac-static.com/multimedia/Images/FR/MDM/d1/37/94/9713617/1540-1/tsp20201125212104/Casque-JBL-Tune-500BT-Bluetooth-Noir.jpg",
+  "nomProduit" : "JBL - Casque Bluetooth Tune 500 BT - Noir",
+  "refProduit" : "jbl500bt",
+  "prixProduit" : {
+    "15-12-2020" : [ {
+      "prix" : 98,
+      "seller" : "www.fr.shopping.rakuten.com"
+    }, {
+      "prix" : 100,
+      "seller" : "www.backmarket.fr"
+    } ],
+    "16-12-2020" : [ {
+      "prix" : 97,
+      "seller" : "www.fr.shopping.rakuten.com"
+    }, {
+      "prix" : 100.50,
+      "seller" : "www.backmarket.fr"
+    } ],
+    "17-12-2020" : [ {
+      "prix" : 95.65,
+      "seller" : "www.fr.shopping.rakuten.com"
+    }, {
+      "prix" : 98,
+      "seller" : "www.backmarket.fr"
+    } ],
+    "18-12-2020" : [ {
+      "prix" : 93.5,
+      "seller" : "www.fr.shopping.rakuten.com"
+    }, {
+      "prix" : 99.36,
+      "seller" : "www.backmarket.fr"
+    } ],
+    "19-12-2020" : [ {
+      "prix" : 90,
+      "seller" : "www.fr.shopping.rakuten.com"
+    }, {
+      "prix" : 105.23,
+      "seller" : "www.backmarket.fr"
+    } ]
+  }
+}
+,
+ {
+  "barcodeProduit" : 5488796555256,
+  "descProduit" : "iPhone 12 64 Go - Noir - Débloqué description exemple",
+  "deviseProduit" : "€",
+  "etatProduit" : "neuf",
+  "idProduit" : 3,
+  "imageProduit" : "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQI5f1oCs5beJGKgcb2ya_zVYz4hyDDdVIrQXRxFv9LUmF1eT-UBw&usqp=CAc",
+  "nomProduit" : "iPhone 12 64 Go - Noir - Débloqué",
+  "refProduit" : "iphone12",
+  "prixProduit" : {
+    "15-12-2020" : [ {
+      "prix" : 900,
+      "seller" : "www.bouyguestelecom.fr"
+    }, {
+      "prix" : 896,
+      "seller" : "www.monsieurplus.com"
+    } ],
+    "16-12-2020" : [ {
+      "prix" : 901.25,
+      "seller" : "www.bouyguestelecom.fr"
+    }, {
+      "prix" : 899.50,
+      "seller" : "www.monsieurplus.com"
+    } ],
+    "17-12-2020" : [ {
+      "prix" : 905.23,
+      "seller" : "www.bouyguestelecom.fr"
+    }, {
+      "prix" : 901,
+      "seller" : "www.monsieurplus.com"
+    } ],
+    "18-12-2020" : [ {
+      "prix" : 910,
+      "seller" : "www.bouyguestelecom.fr"
+    }, {
+      "prix" : 903,
+      "seller" : "www.monsieurplus.com"
+    } ],
+    "19-12-2020" : [ {
+      "prix" : 911.20,
+      "seller" : "www.bouyguestelecom.fr"
+    }, {
+      "prix" : 905.20,
+      "seller" : "www.monsieurplus.com"
+    } ]
+  }
+}
+ ]

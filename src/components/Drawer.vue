@@ -22,7 +22,8 @@ export default {
     return {
       items: [
         { icon: 'home', text: "Accueil", action: '/' },
-        { icon: 'vibration', text: "Vibration", action: 'vibration' },
+        // { icon: 'vibration', text: "Vibration", action: 'vibration' },
+        { icon: 'vibration', text: "Produit", action: 'product' },
         // { icon: 'camera', text: this.$t('drawer.camera'), action: 'camera' },
         // { icon: 'flash_on', text: this.$t('drawer.flash'), action: 'flash' },
         // { icon: 'gps_fixed', text: this.$t('drawer.localisation'), action: 'localisation' },

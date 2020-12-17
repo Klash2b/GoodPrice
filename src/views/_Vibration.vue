@@ -8,7 +8,7 @@
 
 <script>
   export default {
-    name: 'vibration',
+    name: 'vibrate',
     methods: {
       doVibrate () {
         // Do vibration if available

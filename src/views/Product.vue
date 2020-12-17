@@ -1,24 +1,11 @@
 <template>
-  <v-container>
+  <v-container text-center>
     <div class="home">
-      <v-img class="logo" src="GoodPrice-logo-cropped.png" />
-      <!-- <h4>{{$t("title")}}</h4> -->
+      <img class="logo" src="vuejs.png" />
+      <img class="logo" src="cordova_256.png" />
+      <h4>Produits</h4>
       <!-- <v-btn @click="openMenu" class="mt-10">{{$t("showSample")}}</v-btn> -->
       <!-- <v-btn @click="myFunc" class="mt-10">Aller vers Vibration</v-btn> -->
-      <v-form ref="form" v-model="form" class="pa-4 pt-6">
-        <v-autocomplete
-          v-model="select"
-          :items="especes"
-          item-text="nom_vernaculaire"
-          item-value="id_taxon"
-          return-object
-          label="Rechercher un produit"
-          prepend-icon="search"
-          outlined
-          color="primary"
-          style="min-height: 56px"
-        ></v-autocomplete>
-      </v-form>
     </div>
   </v-container>
 </template>
@@ -56,6 +43,9 @@ export default {
   align-items: center;
 }
 
-.logo {
+img.logo {
+  display: inline-block;
+  width: 90px;
+  padding: 20px;
 }
 </style>
