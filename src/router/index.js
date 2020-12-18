@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/views/Home'
-import Vibration from '@/views/_Vibration'
+// import Vibration from '@/views/_Vibration'
 import Product from '@/views/Product'
 // import Flash from '@/views/Flash'
 // import Camera from '@/views/Camera'
@@ -17,16 +17,16 @@ export default new Router({
       name: 'Home',
       component: Home
     }
+    // ,{
+    //   path: '/vibration',
+    //   name: 'Vibration',
+    //   component: Vibration
+    // }
     ,{
-      path: '/vibration',
-      name: 'Vibration',
-      component: Vibration
-    }
-    ,{
-      path: '/product',
+      path: '/product:id',
       name: 'Product',
       component: Product
-    }
+    },
     // ,{
     //   path: '/flash',
     //   name: 'Flash',

@@ -4,10 +4,10 @@
       <myContentDrawer />
     </v-navigation-drawer>
 
-    <v-app-bar class="indigo" style="display:flex;justify-content:center;">
-      <!-- <v-app-bar-nav-icon dark @click.stop="drawer = !drawer"></v-app-bar-nav-icon> -->
+    <!-- <v-app-bar class="indigo" style="display:flex;justify-content:center;">
+      <v-app-bar-nav-icon dark @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
       <v-toolbar-title @click="goHome" class="white--text">GoodPrice</v-toolbar-title>
-    </v-app-bar>
+    </v-app-bar> -->
   </div>
 </template>
 

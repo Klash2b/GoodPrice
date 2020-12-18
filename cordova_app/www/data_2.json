@@ -1,0 +1,80 @@
+{
+  "1" : {
+    "descProduit" : "Reflex Canon EOS 2000D - Noir + objectif efs 18-55mm description exemple",
+    "deviseProduit" : "$",
+    "etatProduit" : "neuf",
+    "idProduit" : 1,
+    "imageProduit" : "",
+    "nomProduit" : "Reflex Canon EOS 2000D - Noir + objectif efs 18-55mm",
+    "prixProduit" : [ {
+      "date" : "17/12/2020",
+      "prixProduit" : 202,
+      "venduPar" : "www.amazon.com"
+    }, {
+      "date" : "17/12/2020",
+      "prixProduit" : 205,
+      "venduPar" : "www.francecanon.fr"
+    }, {
+      "date" : "17/12/2020",
+      "prixProduit" : 210,
+      "venduPar" : "www.electrodepot.fr"
+    } ]
+  },
+  "2" : {
+    "descProduit" : "iPhone 12 64 Go - Noir - Débloqué description exemple",
+    "deviseProduit" : "€",
+    "etatProduit" : "neuf",
+    "idProduit" : 2,
+    "imageProduit" : "",
+    "nomProduit" : "iPhone 12 64 Go - Noir - Débloqué",
+    "prixProduit" : [ {
+      "date" : "17/12/2020",
+      "prixProduit" : 900.99,
+      "venduPar" : "www..bouyguestelecom.fr/"
+    }, {
+      "date" : "17/12/2020",
+      "prixProduit" : 908.36,
+      "venduPar" : "www.fr.shopping.rakuten.com"
+    }, {
+      "date" : "17/12/2020",
+      "prixProduit" : 905.42,
+      "venduPar" : "www.backmarket.fr"
+    }, {
+      "date" : "17/12/2020",
+      "prixProduit" : 905.42,
+      "venduPar" : "www.backmarket.fr"
+    } ]
+  }, "3" : {
+    "descProduit" : "Samsung S20 FE - Double SIM - 128 Go - Nuage marine - GSM description exemple",
+    "deviseProduit" : "$",
+    "etatProduit" : "neuf",
+    "idProduit" : 3,
+    "imageProduit" : "",
+    "nomProduit" : "Samsung S20 FE - Double SIM - 128 Go - Nuage marine - GSM",
+    "prixProduit" : [ {
+      "date" : "17/12/2020",
+      "prixProduit" : 649.02,
+      "venduPar" : "www.darty.fr"
+    }, {
+      "date" : "17/12/2020",
+      "prixProduit" : 630.39,
+      "venduPar" : "www.monsieurplus.com"
+    } ]
+  }, "4" : {
+    "descProduit" : "JBL - Casque Bluetooth Tune 500 BT - Noir exemple description",
+    "deviseProduit" : "€",
+    "etatProduit" : "neuf",
+    "idProduit" : 4,
+    "imageProduit" : "",
+    "nomProduit" : "JBL - Casque Bluetooth Tune 500 BT - Noir",
+    "prixProduit" : [ {
+      "date" : "17/12/2020",
+      "prixProduit" : 95.02,
+      "venduPar" : "www.Rakuten.fr"
+    }, {
+      "date" : "17/12/2020",
+      "prixProduit" : 82.39,
+      "venduPar" : "www.ebay.it"
+    } ]
+  }
+}

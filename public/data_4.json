@@ -1,0 +1,164 @@
+[  {
+  "barcodeProduit" : 1254782596325,
+  "descProduit" : "Reflex Canon EOS 2000D - Noir + objectif efs 18-55mm description exemple",
+  "deviseProduit" : "€",
+  "etatProduit" : "neuf",
+  "idProduit" : 1,
+  "imageProduit" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCHCYP672_TtOkysB2AX-RQGPobtcnwWdqqfeqcQIVFxryicuKBhYfvyFTv8MVNovngxvuVDqFFg&usqp=CAc",
+  "nomProduit" : "Reflex Canon EOS 2000D - Noir + objectif efs 18-55mm",
+  "refProduit" : "canon2000d",
+  "prixProduit" : {
+          "1":{
+            "date":"01-12-2020",
+            "sellers" : [ {
+                 "prix" : 201,
+                  "seller" : "amazon.fr"
+                      }, {
+                  "prix" : 245,
+                   "seller" : "francecanon.fr"
+                  } ] 
+          },
+           "2":{
+            "date":"07-12-2020",
+            "sellers" : [ {
+                 "prix" : 202,
+                  "seller" : "amazon.fr"
+                      }, {
+                  "prix" : 236,
+                   "seller" : "francecanon.fr"
+                  } ] 
+          },
+           "3":{
+            "date":"14-12-2020",
+            "sellers" : [ {
+                 "prix" : 198,
+                  "seller" : "amazon.fr"
+                      }, {
+                  "prix" : 253,
+                   "seller" : "francecanon.fr"
+                  } ] 
+          },
+           "4":{
+            "date":"21-12-2020",
+            "sellers" : [ {
+                 "prix" : 199,
+                  "seller" : "amazon.fr"
+                      }, {
+                  "prix" : 245,
+                   "seller" : "francecanon.fr"
+                  } ] 
+          } 
+         
+           
+         
+  }
+},
+ {
+  "barcodeProduit" : 9562823654856,
+  "descProduit" : "JBL - Casque Bluetooth Tune 500 BT - Noir exemple description",
+  "deviseProduit" : "€",
+  "etatProduit" : "neuf",
+  "idProduit" : 2,
+  "imageProduit" : "https://static.fnac-static.com/multimedia/Images/FR/MDM/d1/37/94/9713617/1540-1/tsp20201125212104/Casque-JBL-Tune-500BT-Bluetooth-Noir.jpg",
+  "nomProduit" : "JBL - Casque Bluetooth Tune 500 BT - Noir",
+  "refProduit" : "jbl500bt",
+  "prixProduit" : {
+         "1":{
+            "date":"01-12-2020",
+            "sellers" : [ {
+                 "prix" : 98,
+                  "seller" : "www.fr.shopping.rakuten.com"
+                      }, {
+                  "prix" : 100,
+                   "seller" : "www.backmarket.fr"
+                  } ] 
+          } ,
+          "2":{
+            "date":"07-12-2020",
+            "sellers" : [ {
+                 "prix" : 97,
+                  "seller" : "www.fr.shopping.rakuten.com"
+                      }, {
+                  "prix" : 101,
+                   "seller" : "www.backmarket.fr"
+                  } ] 
+          } ,
+          "3":{
+            "date":"14-12-2020",
+            "sellers" : [ {
+                 "prix" : 102,
+                  "seller" : "www.fr.shopping.rakuten.com"
+                      }, {
+                  "prix" : 105,
+                   "seller" : "www.backmarket.fr"
+                  } ] 
+          } ,
+          "4":{
+            "date":"21-12-2020",
+            "sellers" : [ {
+                 "prix" : 109,
+                  "seller" : "www.fr.shopping.rakuten.com"
+                      }, {
+                  "prix" : 110,
+                   "seller" : "www.backmarket.fr"
+                  } ] 
+          }  
+
+   
+  }
+}
+,
+ {
+  "barcodeProduit" : 5488796555256,
+  "descProduit" : "iPhone 12 64 Go - Noir - Débloqué description exemple",
+  "deviseProduit" : "€",
+  "etatProduit" : "neuf",
+  "idProduit" : 3,
+  "imageProduit" : "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQI5f1oCs5beJGKgcb2ya_zVYz4hyDDdVIrQXRxFv9LUmF1eT-UBw&usqp=CAc",
+  "nomProduit" : "iPhone 12 64 Go - Noir - Débloqué",
+  "refProduit" : "iphone12",
+  "prixProduit" : {
+     "1":{
+            "date":"01-12-2020",
+            "sellers" : [ {
+                 "prix" : 900.50,
+                  "seller" : "www.bouyguestelecom.fr"
+                      }, {
+                  "prix" : 902.30,
+                   "seller" : "www.monsieurplus.com"
+                  } ] 
+          } ,
+           "2":{
+            "date":"07-12-2020",
+            "sellers" : [ {
+                 "prix" : 901.32,
+                  "seller" : "www.bouyguestelecom.fr"
+                      }, {
+                  "prix" : 899.30,
+                   "seller" : "www.monsieurplus.com"
+                  } ] 
+          },
+           "3":{
+            "date":"14-12-2020",
+            "sellers" : [ {
+                 "prix" : 978.30,
+                  "seller" : "www.bouyguestelecom.fr"
+                      }, {
+                  "prix" : 976.30,
+                   "seller" : "www.monsieurplus.com"
+                  } ] 
+          },
+           "4":{
+            "date":"21-12-2020",
+            "sellers" : [ {
+                 "prix" : 968.40,
+                  "seller" : "www.bouyguestelecom.fr"
+                      }, {
+                  "prix" : 967.30,
+                   "seller" : "www.monsieurplus.com"
+                  } ] 
+          }
+     
+  }
+}
+ ]
