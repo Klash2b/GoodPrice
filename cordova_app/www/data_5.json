@@ -5,7 +5,7 @@
     "deviseProduit": "€",
     "etatProduit": "neuf",
     "idProduit": 0,
-    "imageProduit": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCHCYP672_TtOkysB2AX-RQGPobtcnwWdqqfeqcQIVFxryicuKBhYfvyFTv8MVNovngxvuVDqFFg&usqp=CAc",
+    "imageProduit": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTr4yPx9Tblf2nRvENme1X7mx5eYOIahruj6KIDzRGLwpGhpOaeAzWwqY3X9XnxKsRC-5YRMyy6HNxtbSTHNqMTaAyu1S_mmX-C06ejDKSfwxSvIm3v-NAW&usqp=CAY",
     "nomProduit": "Fnatic React - Casque Micro",
     "refProduit": "canon2000d",
     "prixProduit": [
@@ -14,11 +14,11 @@
         "sellers": [
           {
             "prix": 69.90,
-            "seller": "amazon.fr"
+            "seller": "Maxesport.gg"
           },
           {
-            "prix": 245,
-            "seller": "francecanon.fr"
+            "prix": 103.99,
+            "seller": "Ebay.fr"
           }
         ]
       },
@@ -26,12 +26,12 @@
         "date": "07-12-2020",
         "sellers": [
           {
-            "prix": 202,
-            "seller": "amazon.fr"
+            "prix": 65.90,
+            "seller": "Maxesport.gg"
           },
           {
-            "prix": 236,
-            "seller": "francecanon.fr"
+            "prix": 108.99,
+            "seller": "Ebay.fr"
           }
         ]
       },
@@ -39,12 +39,12 @@
         "date": "14-12-2020",
         "sellers": [
           {
-            "prix": 198,
-            "seller": "amazon.fr"
+            "prix": 63.90,
+            "seller": "Maxesport.gg"
           },
           {
-            "prix": 253,
-            "seller": "francecanon.fr"
+            "prix": 100.99,
+            "seller": "Ebay.fr"
           }
         ]
       },
@@ -52,12 +52,12 @@
         "date": "21-12-2020",
         "sellers": [
           {
-            "prix": 199,
-            "seller": "amazon.fr"
+            "prix": 73.90,
+            "seller": "Maxesport.gg"
           },
           {
-            "prix": 245,
-            "seller": "francecanon.fr"
+            "prix": 113.99,
+            "seller": "Ebay.fr"
           }
         ]
       }
@@ -250,6 +250,70 @@
           {
             "prix": 967.3,
             "seller": "www.monsieurplus.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "barcodeProduit": 54887965855256,
+    "descProduit": "Apple Airpods 2 avec étui de charge - blanc description exemple",
+    "deviseProduit": "€",
+    "etatProduit": "neuf",
+    "idProduit": 4,
+    "imageProduit": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRiyBk6qAco6I7GttOTRa0d4CtOOqYQ957hD-Ttlg-8Ui7xTmf9yM3JjvSjvUbLUbFbJO-QmoI9MJUVpnArdEOvn_Aqxym90N1GfNBXJgWYA6qS-PRtLHAc&usqp=CAY",
+    "nomProduit": "Apple Airpods 2 avec étui de charge - blanc",
+    "refProduit": "iphone12",
+    "prixProduit": [
+      {
+        "date": "30-11-2020",
+        "sellers": [
+          {
+            "prix": 169.99,
+            "seller": "Apple.com"
+          },
+          {
+            "prix": 157.99,
+            "seller": "Boulanger.com"
+          }
+        ]
+      },
+      {
+        "date": "06-12-2020",
+        "sellers": [
+          {
+            "prix": 159.99,
+            "seller": "Apple.com"
+          },
+          {
+            "prix": 164.99,
+            "seller": "Boulanger.com"
+          }
+        ]
+      },
+      {
+        "date": "13-12-2020",
+        "sellers": [
+          {
+            "prix": 167.99,
+            "seller": "Apple.com"
+          },
+          {
+            "prix": 167.99,
+            "seller": "Boulanger.com"
+          }
+        ]
+      },
+      {
+        "date": "20-12-2020",
+        "sellers": [
+          {
+            "prix": 164.99,
+            "seller": "Apple.com"
+          },
+          {
+            "prix": 174.99,
+            "seller": "Boulanger.com"
           }
         ]
       }

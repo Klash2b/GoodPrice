@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-img
+    <!-- <v-img
       @click="
         $router.push({
           name: 'Home',
@@ -8,7 +8,7 @@
       "
       class="logo mb-6 mt-6"
       src="GoodPrice-logo-cropped.png"
-    />
+    /> -->
     <div style="display:flex;align-items:center;" v-if="data.nomProduit">
       <v-img
         class="mr-4"

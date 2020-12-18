@@ -4,10 +4,10 @@
       <myContentDrawer />
     </v-navigation-drawer>
 
-    <!-- <v-app-bar class="indigo" style="display:flex;justify-content:center;">
-      <v-app-bar-nav-icon dark @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
-      <v-toolbar-title @click="goHome" class="white--text">GoodPrice</v-toolbar-title>
-    </v-app-bar> -->
+    <v-app-bar class="myGradient" style="display:flex;justify-content:center;">
+      <!-- <v-app-bar-nav-icon dark @click.stop="drawer = !drawer"></v-app-bar-nav-icon> -->
+      <v-toolbar-title @click="goHome" class="white--text"><v-img width="150px" src="GoodPrice-logo-cropped-white.png" /></v-toolbar-title>
+    </v-app-bar>
   </div>
 </template>
 
@@ -40,3 +40,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+.myGradient {
+  background: linear-gradient(45deg, #7c3581, #e26047)
+}
+</style>

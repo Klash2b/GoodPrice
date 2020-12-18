@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-img class="logo mb-6 mt-6" src="GoodPrice-logo-cropped.png" />
+    <!-- <v-img class="logo mb-6 mt-6" src="GoodPrice-logo-cropped.png" /> -->
     <!-- <h4>{{$t("title")}}</h4> -->
     <!-- <v-btn @click="openMenu" class="mt-10">{{$t("showSample")}}</v-btn> -->
     <!-- <v-btn @click="myFunc" class="mt-10">Aller vers Vibration</v-btn> -->
