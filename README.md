@@ -1,6 +1,6 @@
 # GoodPrice
  
-> Sample VueJS app thats use Cordova capabilities
+> Application présentée pour le Hackathon 2020
 
 ## Build Setup
 
